@@ -1,1 +1,1 @@
-def instantiate_newa
+def instantiate_new_array

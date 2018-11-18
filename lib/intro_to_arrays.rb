@@ -20,4 +20,4 @@ end
    taylor_swift[3]
  end
 
- puts third_element
+ puts third_element(taylor_swift)

@@ -1,3 +1,3 @@
 def instantiate_new_array
-  @my_new
+  @my_new_array 
 end

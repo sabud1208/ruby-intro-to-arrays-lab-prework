@@ -13,7 +13,7 @@ end
 
 t
 
-def first_element(array)
-  aylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"] 
+def first_element(ya)
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
 end
 first_element(taylor_swift)

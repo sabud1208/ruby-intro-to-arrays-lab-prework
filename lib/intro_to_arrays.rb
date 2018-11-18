@@ -16,4 +16,4 @@ def first_element(taylor_swift)
 end
  puts taylor_swift[0]
 
- deg
+ def third_element

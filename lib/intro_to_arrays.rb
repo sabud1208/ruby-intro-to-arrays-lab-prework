@@ -13,3 +13,4 @@ end
 def first_element
   array= [1,2]
   array.unshift
+end

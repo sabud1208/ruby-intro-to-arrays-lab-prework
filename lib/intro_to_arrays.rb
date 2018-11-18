@@ -10,6 +10,9 @@ def array_with_two_elements
   array
 end
 
+
+@taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+
 def first_element
   array= [1,2]
   array.unshift

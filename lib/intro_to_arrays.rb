@@ -17,7 +17,7 @@ end
  puts taylor_swift[0]
 
  def third_element(taylor_swift)
-   taylor_swift[3]
+   taylor_swift[]
  end
 
  puts third_element(taylor_swift)

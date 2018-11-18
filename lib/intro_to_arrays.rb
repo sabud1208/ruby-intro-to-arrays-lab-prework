@@ -22,4 +22,4 @@ end
 
  puts third_element(taylor_swift)
 
- def last_element
+ def last_element(taylor_swift)

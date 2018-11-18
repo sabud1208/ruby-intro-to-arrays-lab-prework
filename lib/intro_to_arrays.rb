@@ -14,10 +14,10 @@ taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods
 def first_element(taylor_swift)
   taylor_swift[0]
 end
- puts taylor_swift[0]
+ puts taylor_swift[]
 
  def third_element(taylor_swift)
-   taylor_swift[]
+   taylor_swift[2]
  end
 
  puts third_element(taylor_swift)

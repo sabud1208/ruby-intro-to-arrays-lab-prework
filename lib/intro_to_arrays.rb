@@ -5,4 +5,4 @@ def instantiate_new_array
   instantiate_new_array
 end
 
-def 
+def array_with_two_elements

@@ -8,7 +8,7 @@ describe "working with arrays" do
       #For now, just know that creating an instance variable inside our describe block
       #means we can access that variable anywhere inside the block.
       before(:each) do
-        array.new = instantiate_new_array
+        @my_new_array = instantiate_new_array
       end
 
       it "creates a new array and returns it" do
